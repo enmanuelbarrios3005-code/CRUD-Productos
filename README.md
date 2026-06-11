@@ -17,7 +17,7 @@
    php artisan migrate
    php artisan serve
 
-## 🛠️ EL BACKEND 
+##  EL BACKEND 
 
 // 1. Comando para creacion de migracion.
 php artisan make:model Producto -mcr
