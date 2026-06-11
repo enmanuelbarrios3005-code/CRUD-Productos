@@ -1,6 +1,6 @@
-# 🚀 CRUD LARAVEL 12 
+#  CRUD LARAVEL 12 
 
-## 🔌 INSTALACIÓN
+##  INSTALACIÓN
 1. Clonar y entrar:
    git clone https://github.com/enmanuelbarrios3005-code/CRUD-Productos.git
    cd CRUD-Productos
@@ -46,7 +46,7 @@ Route::resource('productos', ProductoController::class);
 
 ---
 
-## 🎨 LAS VISTAS (resources/views/productos/)
+##  LAS VISTAS (resources/views/productos/)
 (Todas llevan <script src="https://cdn.tailwindcss.com"></script> en el head para el estilo).
 
 * index.blade.php: Muestra la tabla. Botón de borrar va en un <form> con @csrf y @method('DELETE').
